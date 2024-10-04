@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I have technical experience and interest in:
+I have technical experience and interest in:
 -> Deep Learning<br>-> Machine Learning<br>-> Data Science<br>-> Computer vision<br>-> Natural Language Processing <br>-> Software Development 
 
 
