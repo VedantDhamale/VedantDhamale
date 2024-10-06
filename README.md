@@ -2,6 +2,8 @@
 <h3 align="center">I’m an AI Engineer specializing in data science, deep learning, NLP, and computer vision. I love turning complex data into actionable insights and tackling real-world challenges with advanced algorithms.</h3>
 <hr>
 I have technical experience and interest in:
+
+
 -> Deep Learning<br>-> Machine Learning<br>-> Data Science<br>-> Computer vision<br>-> Natural Language Processing <br>-> Software Development 
 
 <!-- -📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1Ia9yW46j1tdMShnRsUpfJH7d5Xhwu-ea/view?usp=sharing)-->
